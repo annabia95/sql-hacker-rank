@@ -10,6 +10,11 @@ Como base tive como inspiração a série do canal Tecnologia em Video (Gustavo 
 
 Em andamento...
 
+## Certificados
+
+Certificate             |         
+:-------------------------:|
+![Screeshot](certificate.png)  |
 
 ## Habilidades Desenvolvidas
 
